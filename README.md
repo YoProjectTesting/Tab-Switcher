@@ -6,7 +6,7 @@ A simple script to switch the visibility  state of a tabs content corresponding 
 ## Quick start
 HTML structure have to be like in the picture:
 
-[structure of html](https://i.imgur.com/0MXR0JO.png)
+- ![structure of html](https://i.imgur.com/0MXR0JO.png)
 
 hide $ show classes have to be like shown below:
 
