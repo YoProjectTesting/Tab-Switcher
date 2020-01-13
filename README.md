@@ -8,7 +8,7 @@ A simple script to switch the visibility  state of a tabs content corresponding 
 
 ![structure of html](https://i.imgur.com/0MXR0JO.png)
 
-- *hide $ show* classes have to be like shown below:
+- **hide $ show** classes have to be like shown below:
 
 ![hide $ show class](https://i.imgur.com/yCISD2F.png)
 
