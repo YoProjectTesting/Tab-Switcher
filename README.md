@@ -5,9 +5,7 @@ A simple script to switch the visibility  state of a tabs content corresponding 
 
 ## Quick start
 
-Several quick start options are available:
-
-- 
+- ![structure of html](https://i.imgur.com/0MXR0JO.png)
 
 
 ## Contribution
