@@ -15,7 +15,7 @@ hide $ show classes have to be like shown below:
 When all conditions are met, just run the script in file [Tab_Switcher.js](Tab_Switcher.js) with the function and then run the function itself.
 In this example, the function will receive the following parameters:
 
-[tab_Switcher("info-header", "info-header-tab", "info-tabcontent");]
+`tab_Switcher("info-header", "info-header-tab", "info-tabcontent");`
 
 
 ## Contribution
@@ -27,4 +27,4 @@ In this example, the function will receive the following parameters:
 
 ## License
 
-MIT. Copyright (c) [Matthieu Bué](https://twikito.com)
+MIT. Copyright (c) [Yoel]()
